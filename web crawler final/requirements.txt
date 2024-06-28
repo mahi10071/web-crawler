@@ -1,0 +1,14 @@
+beautifulsoup4
+# html code to better ui. pretty formst. result saving
+fpdf
+pandas
+# email extraction in csv file
+Pillow
+# image processing. process ss and save
+requests
+selenium
+# with wdm . open crome with wdm and take ss with selenium
+tldextract
+webdriver_manager
+lxml
+# pages in xml format
